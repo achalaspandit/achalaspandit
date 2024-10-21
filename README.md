@@ -1,5 +1,5 @@
 
-![Achala Pandit](https://github.com/user-attachments/assets/a62606bd-42d0-4b3a-8a1f-5b2937721df4)
+<img src="https://github.com/user-attachments/assets/a62606bd-42d0-4b3a-8a1f-5b2937721df4" alt="Achala Pandit" style="width: 100%; height: auto;" />
 
 ## Hi there 👋
 
