@@ -13,8 +13,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<!--
 <img src="https://github.com/user-attachments/assets/109cae42-2d62-40f0-a925-647e6f0ebcf2" alt="Achala Pandit" style="width: 100%; height: auto;" />
-
+-->
 
 
 # Hi there👋, I am Achala!
