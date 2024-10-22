@@ -37,9 +37,6 @@ Feel free to explore my GitHub repositories, if you'd like to know more about my
   <a href="https://github.com/achalaspandit" target="_blank" style="margin-right: 20px;">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" style="border-radius: 10px" alt="GitHub">
   </a>
-  <a href="tel:+18583055730" target="_blank" style="margin-right: 20px;">
-    <img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" style="border-radius: 10px" alt="Phone">
-  </a>
 </p>
 
 ---
